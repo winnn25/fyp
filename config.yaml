@@ -1,0 +1,8 @@
+
+path: C:\Users\ashwi\OneDrive\Desktop\Final\sign_data  # dataset root dir
+train: images\train  # Path to training images
+val: images\train      # Path to validation images
+
+# Classes
+names:
+  0: name
